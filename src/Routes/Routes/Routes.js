@@ -3,17 +3,17 @@ import DashboardLayout from "../../Layout/DashboardLayout";
 import Main from "../../Layout/Main";
 import About from "../../Pages/About/About";
 import Appointment from "../../Pages/Appointment/Appointment/Appointment";
-import AddDoctor from "../../Pages/Dashboard/AddDoctor/AddDoctor";
-import AllUsers from "../../Pages/Dashboard/AllUsers/AllUsers";
-import Dashboard from "../../Pages/Dashboard/Dashboard/Dashboard";
-import ManageDoctors from "../../Pages/Dashboard/ManageDoctors/ManageDoctors";
-import MyAppointment from "../../Pages/Dashboard/MyAppointment/MyAppointment";
-import Payment from "../../Pages/Dashboard/Payment/Payment";
+// import AddDoctor from "../../Pages/Dashboard/AddDoctor/AddDoctor";
+// import AllUsers from "../../Pages/Dashboard/AllUsers/AllUsers";
+// import Dashboard from "../../Pages/Dashboard/Dashboard/Dashboard";
+// import ManageDoctors from "../../Pages/Dashboard/ManageDoctors/ManageDoctors";
+// import MyAppointment from "../../Pages/Dashboard/MyAppointment/MyAppointment";
+// import Payment from "../../Pages/Dashboard/Payment/Payment";
 import Home from "../../Pages/Home/Home/Home";
-import Login from "../../Pages/Login/Login";
+// import Login from "../../Pages/Login/Login";
 import DisplayError from "../../Pages/Shared/DisplayError/DisplayError";
-import SignUp from "../../Pages/SignUp/SignUp";
-import AdminRoute from "../AdminRoute/AdminRoute";
+// import SignUp from "../../Pages/SignUp/SignUp";
+// import AdminRoute from "../AdminRoute/AdminRoute";
 import PrivateRoute from "../PrivateRoute/PrivateRoute";
 
 const router = createBrowserRouter([
@@ -28,11 +28,11 @@ const router = createBrowserRouter([
             },
             {
                 path: '/login',
-                element: <Login></Login>
+                // element: <Login></Login>
             },
             {
                 path: '/signup',
-                element: <SignUp></SignUp>
+                // element: <SignUp></SignUp>
             },
             {
                 path: '/appointment',
