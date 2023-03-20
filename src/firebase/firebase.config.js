@@ -5,12 +5,12 @@ import { initializeApp } from "firebase/app";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyA9MTZADocSuhlWxZU01BDlixurGeN5gvI",
-  authDomain: "edulogy-a75ce.firebaseapp.com",
-  projectId: "edulogy-a75ce",
-  storageBucket: "edulogy-a75ce.appspot.com",
-  messagingSenderId: "262240037357",
-  appId: "1:262240037357:web:23a073d6b54bb771f71fe4",
+  apiKey: "AIzaSyCK3SW3NSyrvTBqHKYp0ed1peRMCMDeEPo",
+  authDomain: "doctors-portal-afb28.firebaseapp.com",
+  projectId: "doctors-portal-afb28",
+  storageBucket: "doctors-portal-afb28.appspot.com",
+  messagingSenderId: "870510357003",
+  appId: "1:870510357003:web:4b78082e87a0223cb4350e",
 };
 
 // Initialize Firebase

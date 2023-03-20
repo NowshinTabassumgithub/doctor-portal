@@ -1,9 +1,10 @@
 import React from 'react';
+import ManageDoctors from '../ManageDoctors/ManageDoctors';
 
 const Dashboard = () => {
     return (
         <div>
-            <h2>Coming Soooooooon</h2>
+            {/* <ManageDoctors></ManageDoctors> */}
         </div>
     );
 };
