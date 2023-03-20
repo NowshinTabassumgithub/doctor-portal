@@ -1,10 +1,8 @@
-import React from 'react';
-import ManageDoctors from '../ManageDoctors/ManageDoctors';
+import React from 'react';  
 
 const Dashboard = () => {
     return (
         <div>
-            {/* <ManageDoctors></ManageDoctors> */}
         </div>
     );
 };
